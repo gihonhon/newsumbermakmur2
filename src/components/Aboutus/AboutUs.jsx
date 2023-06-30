@@ -8,10 +8,10 @@ const AboutSection = () => {
           <div className="md:w-1/2 md:pr-12">
             <h2 className="text-3xl font-bold mb-4">About Us</h2>
             <p className="text-lg mb-6">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            Kelompok Tani Sumber Makmur 2 beralamat di JL. Sumber Makmur 2 RT 4, Kel. Kariangau, Kec. Balikpapan Barat, Kota Madya Balikpapan.Anggota dari kelompok tani mencakup dari beberapa RT yaitu; RT 4, RT 5, RT 6, dan RT 7.
             </p>
             <p className="text-lg">
-              Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+            Fokus kami adalah dibidang pertanian dan perternakan, Dalam pertanian, kami menanam sayuran-sayuran dengan metode modern. Dalam perternakan, kami mengembangkan dan menggemukkan sapi dan kambing.  Kami bekerja keras untuk meningkatkan hasil dan kesejahteraan usaha pertanian dan perternakan serta membantu masyarakat Balikpapan dalam memenuhi kebutuhan pangan.
             </p>
           </div>
           <div className="md:w-1/2 mt-6 md:mt-0">
